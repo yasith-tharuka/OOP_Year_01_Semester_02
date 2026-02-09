@@ -1,4 +1,4 @@
-# 📘 Year One — Semester One  
+# Year One — Semester One  
 ## SLIIT City University
 
 ### 👤 Student Information
@@ -8,21 +8,13 @@
 
 ---
 
-## 📚 Module: Object-Oriented Programming (Java)
+## Module: Object-Oriented Programming (Java)
 
 This repository contains notes, exercises, and learning materials related to the OOP (Java) module for Semester One.
 
 ---
 
-## 📂 Contents
-- `notes/` — Weekly theory notes  
-- `labs/` — Lab exercises and solutions  
-- `assignments/` — Coursework and project files  
-- `resources/` — Additional references and study materials  
-
----
-
-## 🎯 Learning Focus
+## Learning Focus
 - Understanding OOP concepts  
 - Writing clean and modular Java code  
 - Applying classes, objects, inheritance, polymorphism, and encapsulation  
@@ -30,5 +22,5 @@ This repository contains notes, exercises, and learning materials related to the
 
 ---
 
-## 📝 Author
+## Author
 Maintained by **P. V. Yasith Tharuka**  
