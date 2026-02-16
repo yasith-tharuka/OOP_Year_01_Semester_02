@@ -1,26 +1,6 @@
-# Year One — Semester One  
-## SLIIT City University
-
-### 👤 Student Information
-- **Name:** P. V. Yasith Tharuka  
-- **Student ID:** SA25610501  
-- **Email:** tharukayasith8@gmail.com  
-
----
-
-## Module: Object-Oriented Programming (Java)
-
-This repository contains notes, exercises, and learning materials related to the OOP (Java) module for Semester One.
-
----
-
-## Learning Focus
-- Understanding OOP concepts  
-- Writing clean and modular Java code  
-- Applying classes, objects, inheritance, polymorphism, and encapsulation  
-- Building small Java applications  
-
----
-
-## Author
-Maintained by **P. V. Yasith Tharuka**  
+Object Oriented Programming in Java
+SLIIT CITY UNI - YEAR 01 SEMESTER 01
+SA25610501
+P. V. YASITH THARUKA
+SOFTWARE ENGINEERING
+tharukayasith8@gmail.com
