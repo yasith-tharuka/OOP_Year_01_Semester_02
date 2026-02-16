@@ -1,5 +1,19 @@
-package OOP_Year_01_Semester_02.Week_05.Task_04;
+package Week_05.Task_04;
 
 public class Q04 {
-    
+    public static void main(String[] args) {
+
+        
+        double demandRate =0434;
+        double SetupCost =234; 
+        double holdingCost =9;
+
+        double EOQ = Math.sqrt((2*demandRate*SetupCost)/holdingCost);
+        double TBO = Math.sqrt((2*SetupCost)/demandRate*holdingCost);
+
+        System.out.println("EOQ : " + EOQ + "\n TBO : " + TBO);
+
+
+
+    }
 }
