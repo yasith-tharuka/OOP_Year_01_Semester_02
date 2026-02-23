@@ -1,4 +1,4 @@
-package Week_05.Task_04;
+
 
 public class Q04 {
     public static void main(String[] args) {

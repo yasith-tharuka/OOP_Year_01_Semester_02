@@ -1,4 +1,3 @@
-package Week_05.Task_03;
 
 public class Q03 {
     public static void main(String[] args) {
